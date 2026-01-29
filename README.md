@@ -81,6 +81,8 @@ where X is the ability key (Q, W, E, or R)
 
 python main.py
 
+---
+
 ## 🎯 How to Play
 
 1. An ability image will appear on the screen
@@ -96,6 +98,8 @@ python main.py
 6. Score increases for correct answers
 
 7. A new image appears after each correct guess
+
+---
 
 ## 🧠 Learning Outcomes
 
@@ -113,6 +117,8 @@ Randomized game logic
 
 User input validation and UI feedback
 
+---
+
 ## 🚀 Future Improvements
 
 Add difficulty levels or time limits
@@ -125,7 +131,11 @@ Add multiple game modes
 
 Improve UI layout and animations
 
+---
+
 ## ⚠️ Disclaimer
 
 League of Legends and all related assets are trademarks and copyrights of Riot Games, Inc.
 This project is a non-commercial, educational fan project and is not affiliated with or endorsed by Riot Games.
+
+---
